@@ -1,3 +1,6 @@
+Bonjour Paris!
+
+
 # Welcome to Rails
 
 ## What's Rails
